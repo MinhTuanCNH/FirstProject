@@ -3,6 +3,7 @@
 #define ll long long
 #define fi first
 #define se second
+#define sz(s) int(s.size())
 
 #define vi vector<int>
 #define vll vector<long long>
