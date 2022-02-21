@@ -10,7 +10,8 @@
 
 const long long mod = 1e9 + 7;
 const long long inf = 1e18 - 1;
-const int MaxN = 100005;
+const int MaxN1 = 1e5 + 5;
+const int MaxN2 = 1e3 + 5;
 
 using namespace std;
 
